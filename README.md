@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<img src="https://github.com/mahancrx/Laravel-Shop/assets/87831227/09009a38-3c99-4995-b13e-721acfc3c66f"  alt="Laravel Logo">
+
+
 ## Installation
 <h4>for config project first copy .env.example and paste in folder and change name to .env and comment all appproviders boot function</h4>
 
