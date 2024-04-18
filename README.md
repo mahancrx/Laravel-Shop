@@ -8,6 +8,11 @@
 </p>
 
 ## Installation
+for update packages
+
+```shell
+composer update
+```
 for install packages 
 
 ```shell
@@ -16,6 +21,11 @@ composer install
 for create or update database
 ```shell
 php artisan migrate
+```
+
+for run project
+```shell
+php artisan serv
 ```
 
 ## About Laravel
