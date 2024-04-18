@@ -23,7 +23,7 @@ return new class extends Migration
             $table->unsignedBigInteger('color_id');
             $table->foreign('color_id')->references('id')->on('colors');
             $table->unsignedBigInteger('guaranty_id');
-            $table->foreign('guaranty_id')->references('id')->on('guarranties');
+            $table->foreign('guaranty_id')->references('id')->on('guaranties');
             $table->unsignedBigInteger('user_id');
             $table->foreign('user_id')->references('id')->on('users')->cascadeOnUpdate()->cascadeOnDelete();
             $table->timestamp('special_start')->nullable();
