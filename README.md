@@ -8,7 +8,7 @@
 </p>
 
 ## Installation
-<h4>for config project first copy .env.example and paste in folder and change name to .env</h4>
+<h4>for config project first copy .env.example and paste in folder and change name to .env and comment all appproviders boot function</h4>
 
 for update packages
 ```shell
@@ -29,6 +29,11 @@ for run project
 ```shell
 php artisan serv
 ```
+for update website
+ ```shell
+    now go create admin user in database and go to login page in http://127.0.0.1:8000/login and sign in and go to admin panel in http://127.0.0.1:8000/admin and add category list in دسته بندی page and add banners in بنر ها page
+```
+
 
 ## About Laravel
 
