@@ -7,9 +7,44 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<img src="https://github.com/mahancrx/Laravel-Shop/assets/87831227/09009a38-3c99-4995-b13e-721acfc3c66f"  alt="Laravel Logo">
+<img src="https://github.com/mahancrx/Laravel-Shop/assets/87831227/09009a38-3c99-4995-b13e-721acfc3c66f">
 
+## What I Handled In this Project
+<h4>Admin Panel</h4>
+    <p>Create User</p>
+    <p>Create Banner</p>
+    <p>Create Role</p>
+    <p>Create Category</p>
+    <p>Create Slider</p>
+    <p>Create Product</p>
+    <p>Create Guaranty</p>
+    <p>Create Brand</p>
+    <p>Create Gallery</p>
+    <p>Create Order</p>
+    <p>Create Order Detail</p>
+    <p>Create Product Property</p>
+    <p>Create City</p>
+    <p>Create Province</p>
+    <p>Create Coupen</p>
+    <p>Create Gift Cart</p>
+    <p>User Must Login</p>
+    <p>User Must Have Admin Role</p>
 
+<h4>Store Pages</h4>
+    <p>Create Cart </p>
+    <p>Create Order</p>
+    <p>Create Order Detail</p>
+    <p>Create Product</p>
+    <p>Create Product details</p>
+    <p>Category manage</p>
+    <p>Login</p>
+    <p>Register</p>
+    <p>Register via Sms</p>
+    <p>Routes</p>
+    <p>Requests</p>
+    <p>Forms</p>
+
+    
 ## Installation
 <h4>for config project first copy .env.example and paste in folder and change name to .env and comment all appproviders boot function</h4>
 
