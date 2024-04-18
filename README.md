@@ -8,16 +8,18 @@
 </p>
 
 ## Installation
-for update packages
+<h4>for config project first copy .env.example and paste in folder and change name to .env</h4>
 
+for update packages
 ```shell
 composer update
 ```
-for install packages 
 
+for install packages 
 ```shell
 composer install
 ```
+
 for create or update database
 ```shell
 php artisan migrate
